@@ -1,0 +1,375 @@
+[2025-03-23 21:05:50] 🚀 Starting task: open YouTube
+[2025-03-23 21:05:50] 📍 Step 1
+[2025-03-23 21:05:50] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:05:50] Page load failed, continuing...
+[2025-03-23 21:05:51] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:05:51] 📍 Step 1
+[2025-03-23 21:05:51] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:05:51] Page load failed, continuing...
+[2025-03-23 21:05:51] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:05:51] 📍 Step 1
+[2025-03-23 21:05:52] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:05:52] Page load failed, continuing...
+[2025-03-23 21:05:52] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:05:52] 📍 Step 1
+[2025-03-23 21:05:53] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:05:53] Page load failed, continuing...
+[2025-03-23 21:05:53] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:05:53] 📍 Step 1
+[2025-03-23 21:05:53] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:05:53] Page load failed, continuing...
+[2025-03-23 21:05:54] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:05:54] 📍 Step 1
+[2025-03-23 21:05:54] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:05:54] Page load failed, continuing...
+[2025-03-23 21:05:55] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:05:55] 📍 Step 1
+[2025-03-23 21:05:55] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:05:55] Page load failed, continuing...
+[2025-03-23 21:05:55] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:05:55] 📍 Step 1
+[2025-03-23 21:05:56] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:05:56] Page load failed, continuing...
+[2025-03-23 21:05:57] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:09:13] 🚀 Starting task: open YouTube
+[2025-03-23 21:09:13] 📍 Step 1
+[2025-03-23 21:09:13] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:09:13] Page load failed, continuing...
+[2025-03-23 21:09:14] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:09:14] 📍 Step 1
+[2025-03-23 21:09:14] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:09:14] Page load failed, continuing...
+[2025-03-23 21:09:14] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:09:15] 📍 Step 1
+[2025-03-23 21:09:15] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:09:15] Page load failed, continuing...
+[2025-03-23 21:09:15] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:09:15] 📍 Step 1
+[2025-03-23 21:09:16] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:09:16] Page load failed, continuing...
+[2025-03-23 21:09:16] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:09:16] 📍 Step 1
+[2025-03-23 21:09:16] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:09:16] Page load failed, continuing...
+[2025-03-23 21:09:17] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:09:17] 📍 Step 1
+[2025-03-23 21:09:17] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:09:17] Page load failed, continuing...
+[2025-03-23 21:09:18] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-03-23 21:10:46] 🚀 Starting task: open YouTube
+[2025-03-23 21:10:46] 📍 Step 1
+[2025-03-23 21:10:46] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:46] Page load failed, continuing...
+[2025-03-23 21:10:46] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:46] 📍 Step 1
+[2025-03-23 21:10:47] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:47] Page load failed, continuing...
+[2025-03-23 21:10:47] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:47] 📍 Step 1
+[2025-03-23 21:10:47] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:47] Page load failed, continuing...
+[2025-03-23 21:10:48] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:48] 📍 Step 1
+[2025-03-23 21:10:48] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:48] Page load failed, continuing...
+[2025-03-23 21:10:49] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:49] 📍 Step 1
+[2025-03-23 21:10:49] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:49] Page load failed, continuing...
+[2025-03-23 21:10:49] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:49] 📍 Step 1
+[2025-03-23 21:10:50] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:50] Page load failed, continuing...
+[2025-03-23 21:10:50] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:50] 📍 Step 1
+[2025-03-23 21:10:50] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:50] Page load failed, continuing...
+[2025-03-23 21:10:51] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:51] 📍 Step 1
+[2025-03-23 21:10:51] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:51] Page load failed, continuing...
+[2025-03-23 21:10:52] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:52] 📍 Step 1
+[2025-03-23 21:10:52] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:52] Page load failed, continuing...
+[2025-03-23 21:10:53] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:53] 📍 Step 1
+[2025-03-23 21:10:53] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:53] Page load failed, continuing...
+[2025-03-23 21:10:53] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:53] 📍 Step 1
+[2025-03-23 21:10:54] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:54] Page load failed, continuing...
+[2025-03-23 21:10:54] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:54] 📍 Step 1
+[2025-03-23 21:10:55] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:55] Page load failed, continuing...
+[2025-03-23 21:10:55] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:55] 📍 Step 1
+[2025-03-23 21:10:56] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:56] Page load failed, continuing...
+[2025-03-23 21:10:56] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:56] 📍 Step 1
+[2025-03-23 21:10:56] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:56] Page load failed, continuing...
+[2025-03-23 21:10:57] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:57] 📍 Step 1
+[2025-03-23 21:10:57] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:57] Page load failed, continuing...
+[2025-03-23 21:10:58] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:58] 📍 Step 1
+[2025-03-23 21:10:58] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:58] Page load failed, continuing...
+[2025-03-23 21:10:59] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:59] 📍 Step 1
+[2025-03-23 21:10:59] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:59] Page load failed, continuing...
+[2025-03-23 21:10:59] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:10:59] 📍 Step 1
+[2025-03-23 21:11:00] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:11:00] Page load failed, continuing...
+[2025-03-23 21:11:00] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:11:00] 📍 Step 1
+[2025-03-23 21:11:01] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:11:01] Page load failed, continuing...
+[2025-03-23 21:11:01] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:11:01] 📍 Step 1
+[2025-03-23 21:11:01] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:11:01] Page load failed, continuing...
+[2025-03-23 21:11:02] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:11:02] 📍 Step 1
+[2025-03-23 21:11:02] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:11:02] Page load failed, continuing...
+[2025-03-23 21:11:03] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:11:03] 📍 Step 1
+[2025-03-23 21:11:03] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:11:03] Page load failed, continuing...
+[2025-03-23 21:11:04] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:11:04] 📍 Step 1
+[2025-03-23 21:11:04] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:11:04] Page load failed, continuing...
+[2025-03-23 21:11:04] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:11:04] 📍 Step 1
+[2025-03-23 21:11:05] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:11:05] Page load failed, continuing...
+[2025-03-23 21:11:05] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:11:05] 📍 Step 1
+[2025-03-23 21:11:06] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:11:06] Page load failed, continuing...
+[2025-03-23 21:11:06] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:11:06] 📍 Step 1
+[2025-03-23 21:11:07] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:11:07] Page load failed, continuing...
+[2025-03-23 21:11:07] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:11:07] 📍 Step 1
+[2025-03-23 21:11:07] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:11:07] Page load failed, continuing...
+[2025-03-23 21:11:08] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:11:08] 📍 Step 1
+[2025-03-23 21:11:08] Failed to initialize Playwright browser: [Errno 13] Permission denied: '/Applications/Google Chrome.app'
+[2025-03-23 21:11:08] Page load failed, continuing...
+[2025-03-23 22:36:31] 🚀 Starting task: open YouTube
+[2025-03-23 22:36:31] 📍 Step 1
+[2025-03-23 22:36:42] Failed to start a new Chrome instance.: BrowserType.connect_over_cdp: connect ECONNREFUSED ::1:9222
+Call log:
+  - <ws preparing> retrieving websocket url from http://localhost:9222
+
+[2025-03-23 22:36:42] Failed to initialize Playwright browser:  To start chrome in Debug mode, you need to close all existing Chrome instances and try again otherwise we can not connect to the instance.
+[2025-03-23 22:36:42] Page load failed, continuing...
+[2025-03-23 22:36:53] Failed to start a new Chrome instance.: BrowserType.connect_over_cdp: connect ECONNREFUSED ::1:9222
+Call log:
+  - <ws preparing> retrieving websocket url from http://localhost:9222
+
+[2025-03-23 22:36:53] Failed to initialize Playwright browser:  To start chrome in Debug mode, you need to close all existing Chrome instances and try again otherwise we can not connect to the instance.
+[2025-03-23 22:36:53] 📍 Step 1
+[2025-03-23 22:37:02] 🤷 Eval: Unknown - The current page is the Chrome profile picker, not YouTube.
+[2025-03-23 22:37:02] 🧠 Memory: Need to open YouTube. Current page is the Chrome profile picker.
+[2025-03-23 22:37:02] 🎯 Next goal: Open a new tab and navigate to YouTube.
+[2025-03-23 22:37:02] 🛠️  Action 1/1: {"open_tab":{"url":"https://www.youtube.com"}}
+[2025-03-23 22:37:10] 🔗  Opened new tab with https://www.youtube.com
+[2025-03-23 22:37:10] 📍 Step 2
+[2025-03-23 22:37:23] 👍 Eval: Success - YouTube is open in a new tab.
+[2025-03-23 22:37:23] 🧠 Memory: YouTube is successfully opened in a new tab.
+[2025-03-23 22:37:23] 🎯 Next goal: Complete the task as YouTube is open.
+[2025-03-23 22:37:23] 🛠️  Action 1/1: {"done":{"text":"YouTube is successfully opened in a new tab.","success":true}}
+[2025-03-23 22:37:23] 📄 Result: YouTube is successfully opened in a new tab.
+[2025-03-23 22:37:23] ✅ Task completed
+[2025-03-23 22:37:23] ✅ Successfully
+[2025-03-23 22:38:30] 🚀 Starting task: open YouTube and search for mrbeast
+[2025-03-23 22:38:30] 📍 Step 1
+[2025-03-23 22:38:41] Failed to start a new Chrome instance.: BrowserType.connect_over_cdp: connect ECONNREFUSED ::1:9222
+Call log:
+  - <ws preparing> retrieving websocket url from http://localhost:9222
+
+[2025-03-23 22:38:41] Failed to initialize Playwright browser:  To start chrome in Debug mode, you need to close all existing Chrome instances and try again otherwise we can not connect to the instance.
+[2025-03-23 22:38:41] Page load failed, continuing...
+[2025-03-23 22:38:51] Failed to start a new Chrome instance.: BrowserType.connect_over_cdp: connect ECONNREFUSED ::1:9222
+Call log:
+  - <ws preparing> retrieving websocket url from http://localhost:9222
+
+[2025-03-23 22:38:51] Failed to initialize Playwright browser:  To start chrome in Debug mode, you need to close all existing Chrome instances and try again otherwise we can not connect to the instance.
+[2025-03-23 22:38:51] 📍 Step 1
+[2025-03-23 22:39:02] Failed to start a new Chrome instance.: BrowserType.connect_over_cdp: connect ECONNREFUSED ::1:9222
+Call log:
+  - <ws preparing> retrieving websocket url from http://localhost:9222
+
+[2025-03-23 22:39:02] Failed to initialize Playwright browser:  To start chrome in Debug mode, you need to close all existing Chrome instances and try again otherwise we can not connect to the instance.
+[2025-03-23 22:39:02] Page load failed, continuing...
+[2025-03-23 22:48:10] 🚀 Starting task: open YouTube and search mrbeast
+[2025-03-23 22:48:10] 📍 Step 1
+[2025-03-23 22:48:19] 🤷 Eval: Unknown - Starting the task to open YouTube and search for MrBeast.
+[2025-03-23 22:48:19] 🧠 Memory: Need to open YouTube and search for MrBeast. Current step 1/100.
+[2025-03-23 22:48:19] 🎯 Next goal: Click on the YouTube shortcut to open YouTube.
+[2025-03-23 22:48:19] 🛠️  Action 1/1: {"click_element":{"index":3}}
+[2025-03-23 22:48:20] 🖱️  Clicked button with index 3: 
+[2025-03-23 22:48:20] 📍 Step 2
+[2025-03-23 22:50:18] 🚀 Starting task: open YouTube and search mrbeast
+[2025-03-23 22:50:18] 📍 Step 1
+[2025-03-23 22:50:18] Reusing existing Chrome instance
+[2025-03-23 22:50:35] Page load failed, continuing...
+[2025-03-23 22:50:35] Failed to update state: Page.evaluate: Error: LavaMoat - property "Map" of globalThis is inaccessible under scuttling mode. To learn more visit https://github.com/LavaMoat/LavaMoat/pull/360.
+[2025-03-23 22:50:35] 📍 Step 1
+[2025-03-23 22:50:36] Failed to update state: Page.evaluate: Error: LavaMoat - property "Map" of globalThis is inaccessible under scuttling mode. To learn more visit https://github.com/LavaMoat/LavaMoat/pull/360.
+[2025-03-23 22:50:36] 📍 Step 1
+[2025-03-23 22:51:22] 🚀 Starting task: open email and write a random email
+[2025-03-23 22:51:22] 📍 Step 1
+[2025-03-23 22:51:30] 🤷 Eval: Unknown - Starting a new task.
+[2025-03-23 22:51:30] 🧠 Memory: Need to open an email service to write a random email.
+[2025-03-23 22:51:30] 🎯 Next goal: Search for Gmail to open the email service.
+[2025-03-23 22:51:30] 🛠️  Action 1/1: {"input_text":{"index":0,"text":"Gmail"}}
+[2025-03-23 22:51:30] ⌨️  Input Gmail into index 0
+[2025-03-23 22:51:30] 📍 Step 2
+[2025-03-23 22:51:35] 👍 Eval: Success - 'Gmail' was entered into the search box.
+[2025-03-23 22:51:35] 🧠 Memory: Need to open an email service to write a random email. Gmail search initiated.
+[2025-03-23 22:51:35] 🎯 Next goal: Click on the Gmail link to open the email service.
+[2025-03-23 22:51:35] 🛠️  Action 1/1: {"click_element":{"index":7}}
+[2025-03-23 22:51:37] Element not clickable with index 7 - most likely the page changed
+[2025-03-23 22:51:37] 📍 Step 3
+[2025-03-23 22:51:49] 👍 Eval: Success - Gmail is open and ready to compose an email.
+[2025-03-23 22:51:49] 🧠 Memory: Gmail is open. Need to compose a random email.
+[2025-03-23 22:51:49] 🎯 Next goal: Click on the 'Compose' button to start writing a new email.
+[2025-03-23 22:51:49] 🛠️  Action 1/1: {"click_element":{"index":11}}
+[2025-03-23 22:51:49] 🖱️  Clicked button with index 11: Compose
+[2025-03-23 22:51:49] 📍 Step 4
+[2025-03-23 22:51:57] 👍 Eval: Success - Compose window is open.
+[2025-03-23 22:51:57] 🧠 Memory: Compose window is open. Need to write a random email.
+[2025-03-23 22:51:57] 🎯 Next goal: Enter a random email address, subject, and message body.
+[2025-03-23 22:51:57] 🛠️  Action 1/3: {"input_text":{"index":97,"text":"example@example.com"}}
+[2025-03-23 22:51:57] 🛠️  Action 2/3: {"input_text":{"index":104,"text":"Hello!"}}
+[2025-03-23 22:51:58] 🛠️  Action 3/3: {"input_text":{"index":106,"text":"This is a test email. Have a great day!"}}
+[2025-03-23 22:51:58] ⌨️  Input example@example.com into index 97
+[2025-03-23 22:52:01] Something new appeared after action 1 / 3
+[2025-03-23 22:52:01] 📍 Step 5
+[2025-03-23 22:52:09] 👍 Eval: Success - Email address entered.
+[2025-03-23 22:52:09] 🧠 Memory: Email address entered. Need to complete subject and body of the email.
+[2025-03-23 22:52:09] 🎯 Next goal: Enter subject and body text for the email.
+[2025-03-23 22:52:09] 🛠️  Action 1/2: {"input_text":{"index":104,"text":"Hello!"}}
+[2025-03-23 22:52:09] 🛠️  Action 2/2: {"input_text":{"index":105,"text":"This is a test email. Have a great day!"}}
+[2025-03-23 22:52:09] 📍 Step 6
+[2025-03-23 22:52:17] 👍 Eval: Success - Email address entered again.
+[2025-03-23 22:52:17] 🧠 Memory: Email address entered. Need to complete subject and body of the email.
+[2025-03-23 22:52:17] 🎯 Next goal: Enter subject and body text for the email.
+[2025-03-23 22:52:17] 🛠️  Action 1/2: {"input_text":{"index":104,"text":"Hello!"}}
+[2025-03-23 22:52:17] 🛠️  Action 2/2: {"input_text":{"index":105,"text":"This is a test email. Have a great day!"}}
+[2025-03-23 22:52:18] 📍 Step 7
+[2025-03-23 22:52:25] 👍 Eval: Success - Email address entered.
+[2025-03-23 22:52:26] 🧠 Memory: Email address entered. Need to complete subject and body of the email.
+[2025-03-23 22:52:26] 🎯 Next goal: Enter subject and body text for the email.
+[2025-03-23 22:52:26] 🛠️  Action 1/2: {"input_text":{"index":152,"text":"Hello!"}}
+[2025-03-23 22:52:26] 🛠️  Action 2/2: {"input_text":{"index":154,"text":"This is a test email. Have a great day!"}}
+[2025-03-23 22:52:26] ⌨️  Input Hello! into index 152
+[2025-03-23 22:52:28] Something new appeared after action 1 / 2
+[2025-03-23 22:52:28] 📍 Step 8
+[2025-03-23 22:52:36] 👍 Eval: Success - Subject entered successfully.
+[2025-03-23 22:52:36] 🧠 Memory: Email address and subject entered. Need to complete the body of the email.
+[2025-03-23 22:52:36] 🎯 Next goal: Enter the body text for the email.
+[2025-03-23 22:52:36] 🛠️  Action 1/1: {"input_text":{"index":143,"text":"This is a test email. Have a great day!"}}
+[2025-03-23 22:52:37] ⌨️  Input This is a test email. Have a great day! into index 143
+[2025-03-23 22:52:37] 📍 Step 9
+[2025-03-23 22:52:43] 👍 Eval: Success - Email address, subject, and body have been entered.
+[2025-03-23 22:52:43] 🧠 Memory: Email is ready to be sent. All fields are filled.
+[2025-03-23 22:52:43] 🎯 Next goal: Send the email.
+[2025-03-23 22:52:43] 🛠️  Action 1/1: {"click_element":{"index":144}}
+[2025-03-23 22:52:43] 🖱️  Clicked button with index 144: Send
+[2025-03-23 22:52:44] 📍 Step 10
+[2025-03-23 22:52:50] 👍 Eval: Success - The email was sent successfully.
+[2025-03-23 22:52:50] 🧠 Memory: Email composed and sent successfully. Task completed.
+[2025-03-23 22:52:50] 🎯 Next goal: No further actions needed as the task is complete.
+[2025-03-23 22:52:50] 🛠️  Action 1/1: {"done":{"text":"The email was composed and sent successfully. Task completed.","success":true}}
+[2025-03-23 22:52:50] 📄 Result: The email was composed and sent successfully. Task completed.
+[2025-03-23 22:52:50] ✅ Task completed
+[2025-03-23 22:52:51] ✅ Successfully
+[2025-03-23 22:54:25] 🚀 Starting task: open MakeMyTrip and find a flight to Delhi for 1st April
+[2025-03-23 22:54:25] 📍 Step 1
+[2025-03-23 22:54:35] 🤷 Eval: Unknown - Starting a new task.
+[2025-03-23 22:54:35] 🧠 Memory: Need to open MakeMyTrip and find a flight to Delhi for 1st April.
+[2025-03-23 22:54:35] 🎯 Next goal: Search for MakeMyTrip in the search bar.
+[2025-03-23 22:54:35] 🛠️  Action 1/1: {"input_text":{"index":0,"text":"MakeMyTrip"}}
+[2025-03-23 22:54:35] ⌨️  Input MakeMyTrip into index 0
+[2025-03-23 22:54:35] 📍 Step 2
+[2025-03-23 22:54:41] 👍 Eval: Success - 'MakeMyTrip' was entered into the search bar.
+[2025-03-23 22:54:41] 🧠 Memory: Need to open MakeMyTrip and find a flight to Delhi for 1st April.
+[2025-03-23 22:54:41] 🎯 Next goal: Click on the MakeMyTrip link to open the website.
+[2025-03-23 22:54:41] 🛠️  Action 1/1: {"click_element":{"index":5}}
+[2025-03-23 22:54:45] 🖱️  Clicked button with index 5: 
+[2025-03-23 22:54:45] 📍 Step 3
+[2025-03-23 22:54:56] 👍 Eval: Success - MakeMyTrip website is open.
+[2025-03-23 22:54:56] 🧠 Memory: MakeMyTrip is open. Need to find a flight to Delhi for 1st April.
+[2025-03-23 22:54:56] 🎯 Next goal: Change the destination to Delhi and set the departure date to 1st April.
+[2025-03-23 22:54:56] 🛠️  Action 1/1: {"click_element":{"index":8}}
+[2025-03-23 22:54:58] 🖱️  Clicked button with index 8: Flights
+[2025-03-23 22:54:58] 📍 Step 4
+[2025-03-23 22:55:05] 👍 Eval: Success - Flights section is open.
+[2025-03-23 22:55:05] 🧠 Memory: MakeMyTrip is open. Need to find a flight to Delhi for 1st April. Current destination is Mysore.
+[2025-03-23 22:55:05] 🎯 Next goal: Change the destination to Delhi and set the departure date to 1st April.
+[2025-03-23 22:55:05] 🛠️  Action 1/1: {"click_element":{"index":12}}
+[2025-03-23 22:55:05] Element not clickable with index 12 - most likely the page changed
+[2025-03-23 22:55:05] 📍 Step 5
+[2025-03-23 22:55:12] ⚠ Eval: Failed - Could not click on the Flights section.
+[2025-03-23 22:55:12] 🧠 Memory: MakeMyTrip is open. Need to find a flight to Delhi for 1st April. Current destination is Mysore.
+[2025-03-23 22:55:13] 🎯 Next goal: Scroll to find the Flights section and click on it.
+[2025-03-23 22:55:13] 🛠️  Action 1/1: {"scroll_to_text":{"text":"Flights"}}
+[2025-03-23 22:55:13] 🔍  Scrolled to text: Flights
+[2025-03-23 22:55:13] 📍 Step 6
+[2025-03-23 22:55:23] 👍 Eval: Success - Scrolled to the Flights section.
+[2025-03-23 22:55:23] 🧠 Memory: MakeMyTrip is open. Need to find a flight to Delhi for 1st April. Current destination is Mysore.
+[2025-03-23 22:55:23] 🎯 Next goal: Change the destination to Delhi and set the departure date to 1st April.
+[2025-03-23 22:55:23] 🛠️  Action 1/1: {"click_element":{"index":42}}
+[2025-03-23 22:55:25] 🖱️  Clicked button with index 42: Domestic Flights
+[2025-03-23 22:55:25] 📍 Step 7
+[2025-03-23 22:55:35] 👍 Eval: Success - On the flights page.
+[2025-03-23 22:55:35] 🧠 Memory: MakeMyTrip is open. Need to find a flight to Delhi for 1st April. Current destination is Mysore.
+[2025-03-23 22:55:35] 🎯 Next goal: Change the destination to Delhi and set the departure date to 1st April.
+[2025-03-23 22:55:35] 🛠️  Action 1/5: {"click_element":{"index":47}}
+[2025-03-23 22:55:35] 🛠️  Action 2/5: {"input_text":{"index":47,"text":"Delhi"}}
+[2025-03-23 22:55:35] 🛠️  Action 3/5: {"click_element":{"index":48}}
+[2025-03-23 22:55:35] 🛠️  Action 4/5: {"click_element":{"index":50}}
+[2025-03-23 22:55:36] 🛠️  Action 5/5: {"click_element":{"index":62}}
+[2025-03-23 22:55:36] 🖱️  Clicked button with index 47: 
+[2025-03-23 22:55:38] Something new appeared after action 1 / 5
+[2025-03-23 22:55:38] 📍 Step 8
+[2025-03-23 22:55:46] 👍 Eval: Success - The destination input was clicked.
+[2025-03-23 22:55:46] 🧠 Memory: MakeMyTrip is open. Need to find a flight to Delhi for 1st April. Current destination is Mysore.
+[2025-03-23 22:55:46] 🎯 Next goal: Select New Delhi as the destination and set the departure date to 1st April.
+[2025-03-23 22:55:47] 🛠️  Action 1/3: {"click_element":{"index":39}}
+[2025-03-23 22:55:47] 🛠️  Action 2/3: {"click_element":{"index":57}}
+[2025-03-23 22:55:47] 🛠️  Action 3/3: {"click_element":{"index":80}}
+[2025-03-23 22:55:47] 🖱️  Clicked button with index 39: 
+[2025-03-23 22:55:49] Something new appeared after action 1 / 3
+[2025-03-23 22:55:49] 📍 Step 9
+[2025-03-23 22:55:57] 👍 Eval: Success - The calendar is open to select the date.
+[2025-03-23 22:55:57] 🧠 Memory: MakeMyTrip is open. Need to find a flight to Delhi for 1st April. Current destination is Mysore.
+[2025-03-23 22:55:57] 🎯 Next goal: Select 1st April as the departure date.
+[2025-03-23 22:55:57] 🛠️  Action 1/1: {"click_element":{"index":66}}
+[2025-03-23 22:55:57] 🖱️  Clicked button with index 66: 
+[2025-03-23 22:55:57] 📍 Step 10
+[2025-03-23 22:56:03] 👍 Eval: Success - The departure date is set to 1st April and destination is New Delhi.
+[2025-03-23 22:56:03] 🧠 Memory: MakeMyTrip is open. Flight search is set for New Delhi on 1st April.
+[2025-03-23 22:56:04] 🎯 Next goal: Search for flights with the current settings.
+[2025-03-23 22:56:04] 🛠️  Action 1/1: {"click_element":{"index":62}}
+[2025-03-23 22:56:06] 🖱️  Clicked button with index 62: Search
+[2025-03-23 22:56:06] 📍 Step 11
+[2025-03-23 22:56:13] 👍 Eval: Success - The search for flights to Delhi on 1st April is complete.
+[2025-03-23 22:56:13] 🧠 Memory: Flight search is set for New Delhi on 1st April. Search results are being fetched.
+[2025-03-23 22:56:13] 🎯 Next goal: Extract the flight options available for the selected date.
+[2025-03-23 22:56:13] 🛠️  Action 1/1: {"extract_content":{"goal":"extract the available flight options for 1st April to Delhi"}}

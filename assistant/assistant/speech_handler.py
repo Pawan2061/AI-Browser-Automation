@@ -31,7 +31,7 @@ class SpeechHandler:
             self.engine.setProperty('voice', voices[0].id)
 
         # Initialize OpenAI client
-        self.client = OpenAI()
+        self.client = OpenAI(api_key=os.getenv("OPEN_API_KEY"))
         
         # Initialize agents
         self.browser_agent = BrowserAgent(self.client)
